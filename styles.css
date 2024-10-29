@@ -1,6 +1,7 @@
 * {
   margin:0px;
   padding:0px;
+  background-color: black
 }
 
 #octocat {
@@ -20,6 +21,18 @@ p {
   text-align: center;
 }
 
+.header {
+  height: 50%;
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  background-color: lightgray;
+}
+
 .headline {
-  color:black;
+  margin: left 15px right 15px;
+  background-color: ghostwhite;
+  color: deepskyblue;
 }
