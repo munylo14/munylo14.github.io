@@ -1,13 +1,22 @@
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+
+/* the star selector applies these settings to all elements */
+
 * {
   margin:0px;
   padding:0px;
-  background-color: black
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+/*
+
+this is the CSS styles I originally crafted back when I was following
+Github's tutorial.  I may recycle some of it, but wanted to start
+fresh.
+
+
+* {
+  margin:0px;
+  padding:0px;
 }
 
 p {
@@ -36,3 +45,5 @@ p {
   background-color: ghostwhite;
   color: deepskyblue;
 }
+
+*/
