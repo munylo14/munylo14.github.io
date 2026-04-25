@@ -15,3 +15,6 @@ this is my first github pages project, and it is a work in progress.  Stay tuned
 
 *04/24/2026* - 00:41
 > Well, well, well!  It's been a while fam!  But we're back, and ready to take things to the next level on this WebDev journey.  Starting now with updating this page for 2026, not that there is much to update.  But that's gonna change soon!
+
+*04/25/2026* - 01:14
+> Making good progress. In the last 24 hours we have closed two issue tickets, implementing a brand new feature for deployment for the page.  FYI, that feature is the Fidget Clicker card at the bottom of the page.  You are welcome to check it out.  It's a pretty basic feature, but gave me an opportunity to practice writing a Javascript function from scratch, as well as doing a little bit of live HTML DOM manipulation.  I can just from this SUPER simple feature though how useful the component model of React is.  I definitely reused code just for this small feature.  I can't imagine how much I would reuse for a larger feature.  Perhaps we will get into a more complex feature for this app soon.  But for now, the next issue ticket on the horizon is to implement an "Under Construction" splash page for the areas of the website that aren't quite finished.  That's coming soon!
