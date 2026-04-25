@@ -12,3 +12,6 @@ this is my first github pages project, and it is a work in progress.  Stay tuned
 
 *11/11/2024* - 20:28
 > Added some more content tonight.  Also made the decision to incorporate the W3.css framework to this project.  We will see how that goes!
+
+*04/24/2026* - 00:41
+> Well, well, well!  It's been a while fam!  But we're back, and ready to take things to the next level on this WebDev journey.  Starting now with updating this page for 2026, not that there is much to update.  But that's gonna change soon!
